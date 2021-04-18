@@ -1,2 +1,0 @@
-# react-masonry
-simple masonry
